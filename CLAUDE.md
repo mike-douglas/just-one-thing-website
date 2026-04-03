@@ -8,6 +8,9 @@ Here are the high level requirements for the website:
 - The copy on the website follows the guidelines in the just-one-thing-product skill for color scheme, voice, and tone. The features in the app are defined in the skill as well.
 - There are screenshots from the app for reference in `./screenshots/` containing the design/aesthetic, as well as overviews of the features. These are ONLY for reference; you will add placeholders for the actual screenshots that may appear in the website.
 - There are ASO screenshots in `./aso-screenshots` that contain the screenshots used in the App Store listing for reference.
+- The website will be hosted on GitHub Pages so the site must be statically generated. Add any github workflows needed to deploy this.
+- The URL to the website will be <https://getjustonething.app>
+- Create a privacy policy for the app that will appear under /privacy
 
 ## Design specifics for the website
 
