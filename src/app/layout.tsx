@@ -17,11 +17,13 @@ export const metadata: Metadata = {
     url: 'https://getjustonething.app',
     siteName: 'Just One Thing',
     type: 'website',
+    images: [{ url: '/opengraph-image.png', width: 1200, height: 630 }],
   },
   twitter: {
-    card: 'summary',
+    card: 'summary_large_image',
     title: 'Just One Thing',
     description: "One task. Apps blocked until it's done.",
+    images: ['/twitter-image.png'],
   },
 }
 
