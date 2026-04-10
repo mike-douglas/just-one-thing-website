@@ -3,7 +3,7 @@ import { ScreenshotThumbnail } from './components/ScreenshotThumbnail'
 function AppStoreButton() {
   return (
     <a
-      href="#"
+      href="https://apps.apple.com/us/app/just-one-thing-get-it-done/id6761066689"
       className="inline-flex items-center gap-3 bg-white text-black rounded-[14px] px-5 py-3 hover:bg-neutral-100 transition-colors"
     >
       <svg
